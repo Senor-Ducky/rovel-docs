@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: rjs
 title: Style Guide
 sidebar_label: Style Guide
 slug: /

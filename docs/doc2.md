@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: rapi
 title: Document Number 2
 ---
 
