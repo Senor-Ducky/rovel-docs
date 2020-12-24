@@ -64,6 +64,7 @@ module.exports = {
             {
               label: 'Rovel.js',
               href: 'https://rovel.js.org',
+	    },
           ],
         },
         {
