@@ -17,7 +17,7 @@ module.exports = {
       },
       items: [
         {
-          to: '/',
+          to: '',
           activeBasePath: '',
           label: 'Docs',
           position: 'left',
@@ -37,12 +37,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: '/',
+              label: 'Rovel.JS',
+              to: '/rjs/',
             },
             {
-              label: 'Second Doc',
-              to: '/',
+              label: 'Rovel API',
+              to: '/rapi/',
             },
           ],
         },
