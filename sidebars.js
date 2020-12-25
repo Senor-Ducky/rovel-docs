@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-      RovelJs: ['Home']
+      RovelJs: ['Home', 'API']
   },
 };
