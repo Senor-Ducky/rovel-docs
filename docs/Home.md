@@ -19,7 +19,7 @@ Here are some projects, that we are sure you’ll ♥️.
 - [Rovel Blog](https://blog.rovelstars.ga/)
 - [Rovel Status](https://status.rovelstars.ga/)
 
-<img src="https://img.shields.io/static/v1?label=made%20with&message=style&color=red&style=for-the-badge&logo=Awesome%20Lists&logoColor=red"></img> <img src="https://img.shields.io/discord/602906543356379156?color=%237289da&label=chat%20with%20us&logo=discord&style=for-the-badge"></img>
+<img src="https://img.shields.io/static/v1?label=made%20with&message=style&color=red&style=for-the-badge&logo=Awesome%20Lists&logoColor=red"></img> <a href = "https://discord.com/invite/953XCpHbKF"><img src="https://img.shields.io/discord/602906543356379156?color=%237289da&label=chat%20with%20us&logo=discord&style=for-the-badge"></img></a>
 
 ---
 
