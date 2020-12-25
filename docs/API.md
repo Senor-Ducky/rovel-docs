@@ -80,6 +80,6 @@ You can view the stats of a bot, including voting, guilds and more.
 
 ---
 
-[Back to top](http://localhost:3000/docs/API)
 
+Copyright © 2019-2021 Rovel Stars. All rights reserved.
 

@@ -23,6 +23,6 @@ Here are some projects, that we are sure you’ll ♥️.
 
 ---
 
-Back to top
+
 
 *Copyright © 2019-2021 Rovel Stars. All rights reserved.*

@@ -38,11 +38,7 @@ module.exports = {
           items: [
             {
               label: 'Rovel.JS',
-              to: '/rjs/',
-            },
-            {
-              label: 'Rovel API',
-              to: '/rapi/',
+              to: '/docs/',
             },
           ],
         },
